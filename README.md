@@ -1,4 +1,4 @@
-#Arduino remote control bluetooth
+# Arduino remote control bluetooth
 
 
 This app is a virtual remote that allows you to control arduino based car or any other microcontroller (tested on arduino and raspberry pi) using bluetooth
